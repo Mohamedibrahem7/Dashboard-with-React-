@@ -1,0 +1,12 @@
+.SideMenuAndPageContent {
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: calc(100lvh - 100px);
+}
+
+.inSideMenu {
+  width: 220px;
+  height: calc(100lvh - 100px);
+}

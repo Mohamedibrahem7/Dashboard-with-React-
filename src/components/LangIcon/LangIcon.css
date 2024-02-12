@@ -1,0 +1,6 @@
+.lang_icon {
+  display: flex;
+  justify-content: flex-end;
+  transition: 0.3s ease;
+  transform: translateY(-5px);
+}

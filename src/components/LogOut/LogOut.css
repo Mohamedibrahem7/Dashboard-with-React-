@@ -1,0 +1,10 @@
+.logout-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+}
+
+.logout-button {
+  transition: 0.3s ease;
+  transform: translateY(-5px);
+}

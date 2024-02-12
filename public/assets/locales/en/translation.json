@@ -1,0 +1,13 @@
+{
+  "app_title": "Dashboard",
+  "language": "Language",
+  "dashboard": "Dashboard",
+  "inventory": "Inventory",
+  "orders": "Orders",
+  "customers": "Customers",
+  "revenue":"Revenue",
+  "recent_orders": "Recent Orders ",
+  "logout": "LogOut",
+  "terms_of_Use": "Terms of Use",
+  "privacy_policy": "Privacy Policy"
+}

@@ -1,0 +1,13 @@
+{
+  "app_title": "لوحة التحكم",
+  "language": "اللغة",
+  "dashboard": "لوحة التحكم",
+  "inventory": "الجرد",
+  "orders": "الطلبات",
+  "customers": "العملاء",
+  "revenue":"الربح",
+  "recent_orders": "الطلبات الجديدة",
+  "logout": "تسجيل الخروج",
+  "terms_of_Use": "شروط الاستخدام",
+  "privacy_policy": "سياسة الخصوصية"
+}

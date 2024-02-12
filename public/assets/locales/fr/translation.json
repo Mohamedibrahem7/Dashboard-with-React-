@@ -1,0 +1,13 @@
+{
+  "app_title": "Titre",
+  "language": "Langue",
+  "dashboard": "Tableau de bord",
+  "inventory": "Inventaire",
+  "orders": "Ordres",
+  "customers": "Clientes",
+  "revenue":"revenu",
+  "recent_orders": "Dernières commandes",
+  "logout": "sortie",
+  "terms_of_Use": "Conditions d'utilisation",
+  "privacy_policy": "politique de confidentialité"
+}
